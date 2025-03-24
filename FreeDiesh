@@ -28,8 +28,8 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.tennis.com/assets/logos/tennis-logo-desktop.svg" group-title="LIVE TV",  The Tennis HD
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcq_l0FRsyLJzpLXBePjbXLQI66r_AwbcjWA&s" group-title="LIVE TV",  RTA Sports HD
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" group-title="LIVE TV", SONY MAX HD
