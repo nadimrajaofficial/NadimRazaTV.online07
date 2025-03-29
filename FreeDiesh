@@ -42,7 +42,7 @@ https://mtlivestream.com/hls-mtlive/aplive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" group-title="LIVE TV", SONY MAX HD
 http://kst.moonplex.net:8080/CH1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/400px-T_Sports_logo.svg.png" group-title="LIVE TV", T SPORTS HD
-https://smart.bengaldigital.live/T-Sports_HD/index.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://assets.wam.ae/resource/uploads/2018/09/large-29703644218040.jpg" group-title="LIVE TV", DISCOVERY BANGLA HD
 http://kst.moonplex.net:8080/CH9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="LIVE TV", Durunto TV HD
