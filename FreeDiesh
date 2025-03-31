@@ -1,14 +1,8 @@
 #EXTM3U
-
-
 #EXTINF:-1 group-title="NadimRaza TV🇧🇩" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxxkbdsCUq4mqJR7LfvXXWnvp8HlHClydrbOH4BzMy9wsxmyoYYHM8ZzNfbSJWmqaMOTxJGDpyiANkEJ29Vw36yTLz9-NzCv4pQX_Sp5s54vc9tOM-lozt3eNyRdt0YzepySfZ3ntGK4xyaeVAvOAVEqMRZn4A4ERnd0kjsMVdT3sR-PPbIWmdSJNTDSmv/s725/Screenshot_20240619-081713_1.png", MD NADIM AHMED 
 https://video.twimg.com/ext_tw_video/1828876617008939008/pu/pl/wxghvoXtWANW2vhY.m3u8
-
 #EXTINF:-1 group-title="NadimRaza TV.online🇧🇩" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6pPooy2WWKulFwvYargfciZrFqm6sTS_FCEqWk5KbrBqUGljUSYKVgWxgZvwlDUA5YSlTsrkHxlzhK4G3lEfMFKFPE9LWf_croIiYVpUiOgBNS17Szy-_C6qfUaLtHf8FTJtS1rLUXNRgsWyTBpEu1cviM6QpYIcktSBif6UvJPgMbN6UJX55Jijama5/s1514/Screenshot_20241116-124807.jpg", NadimRazaTV.onlne
 https://video.twimg.com/ext_tw_video/1847196839222689793/pu/pl/oVXB7bOG4oH0XFv3.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbOYVx_zmgzuzwlnhB2kUPs_2Ugxq8F5ptcmYz4P4NPzFX70YPlba
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://play-lh.googleusercontent.com/y9w-nselBBlIh2B9nrZ3rxtDEOXet73lGBdV4YSzI0_Z_S9o-DIVW5bSvKJ53RbI1lA=w240-h480-rw" group-title="LIVE TV", NADIM SPORTS TV
 http://ch01.sh365.org/24248/index.m3u8?token=aStZEFSZ2wYR7C
@@ -36,9 +30,6 @@ https://linkchur.top/tv/jd/maasranga/playlist.m3u8
 https://nagorik.com/wp-content/uploads/2024/03/jsdvhsdjFFF-150x50-1.png
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="LIVE TV",  Alpona TV
 https://mtlivestream.com/hls-mtlive/aplive/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" group-title="LIVE TV", SONY MAX HD
 http://kst.moonplex.net:8080/CH1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/400px-T_Sports_logo.svg.png" group-title="LIVE TV", T SPORTS HD
@@ -47,28 +38,16 @@ https://www.tbn24.com/api/video/4028_0.m3u8
 http://kst.moonplex.net:8080/CH9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="LIVE TV", Durunto TV HD
 http://kst.moonplex.net:8080/CH12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_-HAZbux1ShjI_R5mpiFN4AwJJ6xtz8xMg&usqp=CAU" group-title="LIVE TV", Vision HD TV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami-768x768.jpg" group-title="LIVE TV", SAMI TV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/smtvbd.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/jalsha.jpg" group-title="LIVE TV", Jalsha Movies HD
 http://103.122.74.6:8888/hls/zeemovie.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8lt5Kx8Ud-AOHjmKSg_jWzrHpRSycCsefIGD9pSf41azbK9PQAWmgc71O2KBdNOn2CiA9UkWZ8zap0lXZPRJESNd8Rdz9T8AhtdxAcSGfa9C32JhgHh53hC7inxU_xRsj7jKrk5b_37nYmwmYLHX9z5RzN6ZMR0hJaFtY4OjjqIVVM2icxxDC6o-OHGs/s200/images%20%281%29.png" group-title="LIVE TV", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x59782" group-title="LIVE TV", Ekushey e TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.ts.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="Green Bangla HD🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png", Green Bangla HD 
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qkL-MDOUgsDJ9fs8PF7FJOLhnbaM4a3HFA&s" group-title="LIVE TV", GAZI TV HD
 https://cdn.hoichoi24.com/hoichoi24.com-Gazi-TV/video.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUuTZld02OPJc8BF81xax1y3eddYh2hgBvu8iKnWCdyHOl6yb716aAnOFemhTnzOj5_rYctGKGF1hYMw3Wnqwa4latOCpwZlqELbMVu01W2ZwPALu051MDOcx4OebvhQNNqEZ9EO_1HWO5RvQXwrEScDccLREmV6dM_kAYz_8ABa22n9njM9lFJu0BV8L1/s1142/Screenshot_20240826-123024_1.jpg" group-title="LIVE TV", DBC NEWS HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUuTZld02OPJc8BF81xax1y3eddYh2hgBvu8iKnWCdyHOl6yb716aAnOFemhTnzOj5_rYctGKGF1hYMw3Wnqwa4latOCpwZlqELbMVu01W2ZwPALu051MDOcx4OebvhQNNqEZ9EO_1HWO5RvQXwrEScDccLREmV6dM_kAYz_8ABa22n9njM9lFJu0BV8L1/s1142/Screenshot_20240826-123024_1.jpg" group-title="LIVE TV", RTV HD
@@ -89,7 +68,6 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5RaoLDZAXjw5QAlBKUKoPakYQ-3fcVfpw09EUOrX8hBWhd6xASKiviQIQiR7fyTsBN2fLhlOPlcxVbXN6PokBsu9-40NBbKpC76NChbU30sDxvUf6aZmbuViEtzWW4Brw43EWtZf1NbfFF_TFdTrErMiOSqtZnzGASEvMexskJwJsm3MPDdXJ-iLY/w88-h200/Screenshot_20230406-172547.jpg" group-title="LIVE TV", ANANDA MOVIE HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxxkbdsCUq4mqJR7LfvXXWnvp8HlHClydrbOH4BzMy9wsxmyoYYHM8ZzNfbSJWmqaMOTxJGDpyiANkEJ29Vw36yTLz9-NzCv4pQX_Sp5s54vc9tOM-lozt3eNyRdt0YzepySfZ3ntGK4xyaeVAvOAVEqMRZn4A4ERnd0kjsMVdT3sR-PPbIWmdSJNTDSmv/s725/Screenshot_20240619-081713_1.png" group-title="LIVE TV", ASIAN TV HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxxkbdsCUq4mqJR7LfvXXWnvp8HlHClydrbOH4BzMy9wsxmyoYYHM8ZzNfbSJWmqaMOTxJGDpyiANkEJ29Vw36yTLz9-NzCv4pQX_Sp5s54vc9tOM-lozt3eNyRdt0YzepySfZ3ntGK4xyaeVAvOAVEqMRZn4A4ERnd0kjsMVdT3sR-PPbIWmdSJNTDSmv/s725/Screenshot_20240619-081713_1.png" group-title="LIVE TV", CHANNEL I HD
@@ -166,10 +144,8 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", MATRI BHUMI TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", RONGEEN TV HD
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", ASTRO CRICKET HD
 https://fyfl.short.gy/017666.blogspot.com/astrocricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", SATAR SPORTS 1 HD
