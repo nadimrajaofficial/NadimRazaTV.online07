@@ -8,7 +8,8 @@ https://video.twimg.com/ext_tw_video/1847196839222689793/pu/pl/oVXB7bOG4oH0XFv3.
 https://www.tbn24.com/api/video/4028_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://media.info/i/lf/600/1447433721/1065.png" group-title="LIVE TV",  Euro Sports 1 HD
 http://185.189.225.157/EuroSport1/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.indianbroadcastingworld.com/wp-content/uploads/2023/09/DD.png" group-title="LIVE TV",  DD SPORTS HD
+https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=0abc6b14-c563-4851-a49b-4329f9d22be4
 
 
 
