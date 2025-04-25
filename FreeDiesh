@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="NadimRaza TV🇧🇩" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png", MD NADIM AHMED 
+#EXTINF:-1 group-title="NadimRaza TV🇧🇩🖥️🆓" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png", MD NADIM AHMED 
 https://video.twimg.com/ext_tw_video/1828876617008939008/pu/pl/wxghvoXtWANW2vhY.m3u8
-#EXTINF:-1 group-title="NadimRaza TV.online🇧🇩" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png", NadimRazaTV.onlne
+#EXTINF:-1 group-title="NadimRaza TV.online🇧🇩🖥️🆓" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png", NadimRazaTV.onlne
 https://video.twimg.com/ext_tw_video/1847196839222689793/pu/pl/oVXB7bOG4oH0XFv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbOYVx_zmgzuzwlnhB2kUPs_2Ugxq8F5ptcmYz4P4NPzFX70YPlba
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png" group-title="LIVE TV", NADIM SPORTS 
 https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png" group-title="LIVE TV",  Euro Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image-768x432.jpg" group-title="LIVE TV 🌎🖥️🆓",  Euro Sports 1 HD
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.indianbroadcastingworld.com/wp-content/uploads/2023/09/DD.png" group-title="LIVE TV",  DD SPORTS HD
 http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
