@@ -26,6 +26,8 @@ https://NadimRazaTV.short.gy/TNTsports1.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="LIVE TV", Sony Aath HD
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://exchange4media.gumlet.io/news-photo/103264-9xm.jpg" group-title="LIVE TV",  9XM MUSIC HD
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/9XTashanLogo.jpg" group-title="LIVE TV", 9X TAHASAN HD
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master.m3u8?aws.sessionId=0ced6b02-aeca-4527-b3b2-6c35070a40f9
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2019/03/Sangeet-Bangla-768x542.jpg" group-title="LIVE TV",  Sangeet Bangla HD
