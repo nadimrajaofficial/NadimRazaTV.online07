@@ -10,9 +10,9 @@ https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.indianbroadcastingworld.com/wp-content/uploads/2023/09/DD.png" group-title="LIVE TV",  DD SPORTS HD
 http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://margallatribune.com/wp-content/uploads/2025/04/IMG-20250410-WA0002.jpg" group-title="PSL 2025 LIVE HD 🇵🇰🏏",  PSL 2025 HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://margallatribune.com/wp-content/uploads/2025/04/IMG-20250410-WA0002.jpg" group-title="PSL 2025 LIVE HD 🇵🇰🏏🖥️🆓",  PSL 2025 HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://images.mykhel.com/img/2025/04/ban-vs-zim-head-to-head-600-1745081627.jpg" group-title="BAN VS ZIM TEST LIVE 🇧🇩🏏",  BAN VS ZIM  2025 
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://images.mykhel.com/img/2025/04/ban-vs-zim-head-to-head-600-1745081627.jpg" group-title="BAN VS ZIM TEST LIVE 🇧🇩🏏🖥️🆓",  BAN VS ZIM  2025 
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.ts.m3u8
 
 
@@ -192,7 +192,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="LIVE TV",  Movies Action HD
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 group-title="IPL 2025 LIVE 🇳🇪🏏🆓" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png", IPL 2025 LIVE HD
+#EXTINF:-1 group-title="IPL 2025 LIVE 🇳🇪🏏🖥️🆓" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png", IPL 2025 LIVE HD
 https://m3u8.cloudycx.net/media/hls/files/720p.m3u8
 
 
