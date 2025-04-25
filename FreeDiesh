@@ -57,6 +57,10 @@ https://www.tbn24.com/api/video/4036_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://assets.wam.ae/resource/uploads/2018/09/large-29703644218040.jpg" group-title="LIVE TV", DISCOVERY BANGLA HD
 http://kst.moonplex.net:8080/CH9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="LIVE TV", Durunto TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg" group-title="LIVE TV",  Enter 10 Bangla HD
+https://fyfl.short.gy/nadimraja.m3u8?www.017666.blogspot.com
+
+
 http://kst.moonplex.net:8080/CH12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/jalsha.jpg" group-title="LIVE TV", Jalsha Movies HD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
