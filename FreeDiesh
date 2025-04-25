@@ -4,7 +4,7 @@ https://video.twimg.com/ext_tw_video/1828876617008939008/pu/pl/wxghvoXtWANW2vhY.
 #EXTINF:-1 group-title="NadimRaza TV.online🇧🇩" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png", NadimRazaTV.onlne
 https://video.twimg.com/ext_tw_video/1847196839222689793/pu/pl/oVXB7bOG4oH0XFv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbOYVx_zmgzuzwlnhB2kUPs_2Ugxq8F5ptcmYz4P4NPzFX70YPlba
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="LIVE TV", NADIM SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png" group-title="LIVE TV", NADIM SPORTS 
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=58133
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png" group-title="LIVE TV",  Euro Sports 1 HD
 http://185.189.225.157/EuroSport1/index.m3u8
@@ -192,7 +192,8 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="LIVE TV",  Movies Action HD
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-
+#EXTINF:-1 group-title="IPL 2025 LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png", IPL 2025 LIVE HD
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=58133
 
 
 
