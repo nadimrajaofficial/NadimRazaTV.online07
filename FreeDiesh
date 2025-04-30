@@ -58,8 +58,7 @@ https://mtlivestream.com/hls-mtlive/aplive/index.m3u8
 https://NadimRazaTV.short.gy/SonyMaxHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/400px-T_Sports_logo.svg.png" group-title="LIVE TV", T SPORTS HD
 https://www.tbn24.com/api/video/4036_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://assets.wam.ae/resource/uploads/2018/09/large-29703644218040.jpg" group-title="LIVE TV", DISCOVERY  HD
-http://kst.moonplex.net:8080/CH9/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="LIVE TV", Durunto TV HD
 http://kst.moonplex.net:8080/CH12/index.m3u8
 
