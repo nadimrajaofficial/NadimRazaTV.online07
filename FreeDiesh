@@ -12,9 +12,9 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://178.128.214.60:1234/stream/astro/bein3my/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://margallatribune.com/wp-content/uploads/2025/04/IMG-20250410-WA0002.jpg" group-title="PSL 2025 LIVE HD 🇵🇰🏏🖥️🆓",  PSL 2025 LIVE HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://images.mykhel.com/img/2025/04/ban-vs-zim-head-to-head-600-1745081627.jpg" group-title="BAN VS ZIM TEST LIVE 🇧🇩🏏🖥️🆓",  BAN VS ZIM  2025 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.metvbd.com/media/common/logo.png" group-title="LIVE TV",  ME TV BANGLA  HD
+https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/04/movieplus.jpg" group-title="LIVE TV",  MOVIE PlUS HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/tracks-v1a1/mono.ts.m3u8
@@ -132,7 +132,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimrajatv.jpg" group-title="LIVE TV", PEACE TV BANGLA HD 
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimrajatv.jpg" group-title="LIVE TV", BANGLADESH TELEVISION 
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", ROPUSHI BANGLA HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", CHANNEL 9 HD
