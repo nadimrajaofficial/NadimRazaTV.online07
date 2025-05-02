@@ -6,9 +6,9 @@ https://video.twimg.com/ext_tw_video/1847196839222689793/pu/pl/oVXB7bOG4oH0XFv3.
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbOYVx_zmgzuzwlnhB2kUPs_2Ugxq8F5ptcmYz4P4NPzFX70YPlba
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/Nadimdish1.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓", NADIM SPORTS HD
 https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image-768x432.jpg" group-title="LIVE TV ",  Euro Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image-768x432.jpg" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓 ",  Euro Sports 1 HD
 http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.indianbroadcastingworld.com/wp-content/uploads/2023/09/DD.png" group-title="LIVE TV",  DD SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.indianbroadcastingworld.com/wp-content/uploads/2023/09/DD.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  DD SPORTS HD
 http://178.128.214.60:1234/stream/astro/bein3my/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://margallatribune.com/wp-content/uploads/2025/04/IMG-20250410-WA0002.jpg" group-title="PSL 2025 LIVE HD 🇵🇰🏏🖥️🆓",  PSL 2025 LIVE HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
@@ -18,23 +18,23 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.metvbd.com/media/common/logo.png" group-title="LIVE TV",  ME TV BANGLA  HD
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/04/movieplus.jpg" group-title="LIVE TV",  MOVIE PlUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/04/movieplus.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓",  MOVIE PlUS HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKdGl8dGKdfMx6infuS76CEVi2t2BEZEMss33VrtaFpQVnpeOWI12HJwy1eZsDVKKJ5oDPs4DE8gJ8wnhLdI74VWvgCLZFoblhHT7UwruynCyOC41pg9aU0vyYkINzCWrZe9vwIzwXaSz4TXYdSih-hoXrPlsD01TnwLYcxPWQXo82m9rUQR8sbW3CIlOK/s162/B4umovies.jpg" group-title="LIVE TV",  B4U MOVIES HD
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master.m3u8?aws.sessionId=4557ddf5-1c4d-4249-8107-c01212b917ec
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/64209d2e-8a4c-4056-bb24-836ce9f7922d.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="LIVE TV", TNT SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/64209d2e-8a4c-4056-bb24-836ce9f7922d.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓", TNT SPORTS 2
 https://NadimRazaTV.short.gy/TNTsports1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfuwg4o50-GrsUZRpCilfDZrjDkPXpWwnNTg&s" group-title="HINDI MOVIE 🇳🇪🖥️🆓", E24 MUSIC HD
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="LIVE TV", Sony Aath HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Kolkata Bangla 🇳🇪🖥️🆓", Sony Aath HD
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://exchange4media.gumlet.io/news-photo/103264-9xm.jpg" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  9XM MUSIC HD
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/9XTashanLogo.jpg" group-title="HINDI MOVIE 🇳🇪🖥️🆓", 9X TAHASAN HD
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master.m3u8?aws.sessionId=0ced6b02-aeca-4527-b3b2-6c35070a40f9
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2019/03/Sangeet-Bangla-768x542.jpg" group-title="LIVE TV",  Sangeet Bangla HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2019/03/Sangeet-Bangla-768x542.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓",  Sangeet Bangla HD
 http://38.96.178.201/live/SangeetBangla/index.m3u8
 
 
@@ -46,9 +46,9 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://www.tbn24.com/api/video/92039_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.joomusic.info/assets/images/logo.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  JOO MUSIC HD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.tennis.com/assets/logos/tennis-logo-desktop.svg" group-title="LIVE TV",  The Tennis HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.tennis.com/assets/logos/tennis-logo-desktop.svg" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  The Tennis HD
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcq_l0FRsyLJzpLXBePjbXLQI66r_AwbcjWA&s" group-title="LIVE TV",  RTA Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcq_l0FRsyLJzpLXBePjbXLQI66r_AwbcjWA&s" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg" group-title="LIVE TV",  Masranga TV HD
 http://103.230.105.252:1935/live/masranga/index.m3u8
@@ -64,10 +64,10 @@ https://www.tbn24.com/api/video/4036_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="LIVE TV", Durunto TV HD
 http://kst.moonplex.net:8080/CH12/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg" group-title="LIVE TV",  Enter 10 Bangla HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓",  Enter 10 Bangla HD
 https://fyfl.short.gy/nadimraja.m3u8?www.017666.blogspot.com
 
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/jalsha.jpg" group-title="LIVE TV", Jalsha Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/jalsha.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", Jalsha Movies HD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8lt5Kx8Ud-AOHjmKSg_jWzrHpRSycCsefIGD9pSf41azbK9PQAWmgc71O2KBdNOn2CiA9UkWZ8zap0lXZPRJESNd8Rdz9T8AhtdxAcSGfa9C32JhgHh53hC7inxU_xRsj7jKrk5b_37nYmwmYLHX9z5RzN6ZMR0hJaFtY4OjjqIVVM2icxxDC6o-OHGs/s200/images%20%281%29.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -127,7 +127,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimrajatv.jpg" group-title="LIVE TV", BANGLA 24 HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimrajatv.jpg" group-title="LIVE TV", AMAR BANGLA  HD 
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimrajatv.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", AMAR BANGLA  HD 
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimrajatv.jpg" group-title="LIVE TV", INDEPENDENT TV HD 
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
@@ -143,7 +143,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", CHANNEL S HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", STAR JALSHA HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8?www.017666.blogspot.com
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", ENTER 10 BANGLA HD
 https://fyfl.short.gy/nadimraja.m3u8?www.017666.blogspot.com
@@ -151,35 +151,35 @@ https://fyfl.short.gy/nadimraja.m3u8?www.017666.blogspot.com
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="LIVE TV", DESHI TV HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="LIVE TV", COLORS BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", COLORS BANGLA HD
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="LIVE TV", MON TV  HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", MON TV  HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="LIVE TV", TV 9 BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", TV 9 BANGLA HD
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8?www.017666.blogspot.com
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="LIVE TV", REPUBLIC BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", REPUBLIC BANGLA HD
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?www.017666.blogspot.com
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="LIVE TV", MOHONA TV BANGLA HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="LIVE TV", ZEE  BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadimkhan.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", ZEE  BANGLA HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="LIVE TV", ZEE BANGLA CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="Kolkata Bangla 🇳🇪🖥️🆓", ZEE BANGLA CINEMA HD
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", EKHOON TV HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", GLOBAL BANGLA  HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", SANANDA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="Kolkata Bangla 🇳🇪🖥️🆓", SANANDA TV HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", NEWS 24 HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", MATRI BHUMI TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="LIVE TV", RONGEEN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="Kolkata Bangla 🇳🇪🖥️🆓", RONGEEN TV HD
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="LIVE TV", ASTRO CRICKET HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓", ASTRO CRICKET HD
 https://fyfl.short.gy/017666.blogspot.com/astrocricket.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="LIVE TV", SATAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓", SATAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/www.017666.blogspot.com.jpg" group-title="LIVE TV", Rajdhani  TV HD 
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
@@ -187,7 +187,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/www.017666.blogspot.com.jpg" group-title="LIVE TV", Bangla Plus HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", HINDI HITS HD 
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="HINDI MOVIE 🇳🇪🖥️🆓", HINDI HITS HD 
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", NEXUS TELEVISION 
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
@@ -195,7 +195,7 @@ https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimrajaTV2.jpg" group-title="LIVE TV", BANGLA 21  HD
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="LIVE TV",  Movies Action HD
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  Movies Action HD
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 group-title="IPL 2025 LIVE 🇳🇪🏏🖥️🆓" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png", IPL 2025 LIVE HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
