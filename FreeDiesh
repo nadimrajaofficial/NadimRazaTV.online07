@@ -16,8 +16,8 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  TEN CRICKET HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  PTV SPORTS HD
+https://NadimRazaTV.short.gy/PTVsports.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  A Sports HD
