@@ -14,15 +14,14 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/shemaroobollywood.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  Shemaro Bollywood HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  TEN CRICKET HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  A Sports HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_170_122" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  Beln Sports 1
-http://178.128.214.60:1234/stream/astro/bein1my/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_170_122" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  Beln Sports 2
-http://178.128.214.60:1234/stream/astro/bein3my/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_170_122" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  Beln Sports 3
-http://178.128.214.60:1234/stream/astro/bein2my/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/9xmj.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  9X Jalwa
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/9xjalwain.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/unnamed_l6I6vQN.jpg" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  Zoom Music HD
