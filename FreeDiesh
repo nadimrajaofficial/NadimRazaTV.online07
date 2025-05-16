@@ -34,8 +34,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://c7.alamy.com/comp/F2NTBY/hindi-music-meaning-sound-tracks-and-soundtrack-F2NTBY.jpg" group-title="24/7 Hindi Songs🇧🇩🖥️🆓",  HINDI MUSIC UNLIMITED 
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Music_Bangla_logo_2017.png/revision/latest/scale-to-width-down/250?cb=20240322191728" group-title="24/7 Bangla Songs🇧🇩🖥️🆓",  BANGLA MUSIC UNLIMITED 
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  A Sports HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
