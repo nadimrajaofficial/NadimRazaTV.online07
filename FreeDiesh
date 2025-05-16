@@ -18,6 +18,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  PTV SPORTS HD
 https://NadimRazaTV.short.gy/PTVsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://media0078.elcinema.com/tvguide/1259_1.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  MBC BOLLYWOOD HD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://media.istockphoto.com/id/1253945862/vector/sale2.jpg?s=612x612&w=0&k=20&c=VTvCdHZZXQJjtMKvAMU0x7bdoQAhnIYkvFft4Af2aUM=" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  UNLIMITED MOVIES HD
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://yt3.googleusercontent.com/2ULVq-GjSdw089IzHDlk-qmnjISdJxQheGe7M_K5Q-Hp8H3_XsCuxL9BEnb5hZeaGUiCerdtYw=s120-c-k-c0x00ffffff-no-rj" group-title="Bangla Movie 🇧🇩🖥️🆓",  BANGLA MOVIES UNLIMITED 
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://i.ytimg.com/pl_c/PLAluXFwHsYBmO_Wo-Yh1SU6viUsHAV04H/studio_square_thumbnail.jpg?sqp=CICgnMEG-oaymwEICOADEOADSFqi85f_AwYIveittAY=&rs=AOn4CLApQWpqImX9_77NPt5c2BnBJPImsA" group-title="24/7 Bangla Dramas 🇧🇩🖥️🆓",  BANGLA NATOK UNLIMITED 
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://png.pngtree.com/png-vector/20241015/ourmid/pngtree-waz-mahfil-bangla-typography-vector-png-image_14095041.png" group-title="24/7 Bangla Waz 🇧🇩🖥️🆓",  BANGLA WAZ UNLIMITED 
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  A Sports HD
