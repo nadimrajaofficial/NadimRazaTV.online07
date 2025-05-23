@@ -11,7 +11,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.indianbroadcastingworld.com/wp-content/uploads/2023/09/DD.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  DD SPORTS HD
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/0abc6b14-c563-4851-a49b-4329f9d22be4/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://margallatribune.com/wp-content/uploads/2025/04/IMG-20250410-WA0002.jpg" group-title="PSL 2025 LIVE HD 🇵🇰🏏🖥️🆓",  PSL 2025 LIVE HD
-http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+http://38.96.178.201/live/ASports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/shemaroobollywood.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  Shemaro Bollywood HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="NADIM SPORTS TV 🖥️🇧🇩🆓",  TEN CRICKET HD
@@ -267,7 +267,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgd
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://NadimRazaTV.short.gy/FreeDiesh.png" group-title="HINDI MOVIE 🇳🇪🖥️🆓",  Movies Action HD
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 group-title="IPL 2025 LIVE 🇳🇪🏏🖥️🆓" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png", IPL 2025 LIVE HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://38.76.152.22:8000/play/a009/index.m3u8?nadimrazatv.online
 
 
 
